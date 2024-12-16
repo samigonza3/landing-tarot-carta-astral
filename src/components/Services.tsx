@@ -6,12 +6,12 @@ const services = [
     title: "Lectura de Tarot",
     price: "$180.000 COP",
     description: "Descubre las respuestas que buscas a través de las cartas del tarot",
-    features: ["Sesión de 30 minutos", "Respuesta a preguntas específicas sobre amor, trabajo, finanzas o crecimiento personal", "Exploración de las energías presentes en tu vida"],
+    features: ["Sesión de 30 minutos", "Respuesta a preguntas específicas sobre amor, trabajo, finanzas, etc.", "Exploración de las energías presentes en tu vida"],
     icon: <Sparkles className="w-8 h-8 text-purple-400" />
   },
   {
     title: "Interpretación de Carta Astral",
-    price: "$150.000",
+    price: "$150.000 COP",
     description: "Conoce tu esencia y desbloquea tu potencial con la Astrología.",
     features: ["Sesión de 45 minutos", "Carta astral impresa", "Exploración de tu sol, luna, ascendente y casas astrológicas", "Respuesta a preguntas"],
     icon: <Moon className="w-8 h-8 text-purple-400" />
