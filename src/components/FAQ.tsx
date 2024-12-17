@@ -3,20 +3,24 @@ import { ChevronDown, ChevronUp } from 'lucide-react';
 
 const faqs = [
   {
-    question: "¿Cómo se realiza una lectura online?",
-    answer: "Las lecturas se realizan a través de videollamada. Utilizamos plataformas seguras y de alta calidad para asegurar una experiencia mística inmersiva."
+    question: "¿Cómo funciona una lectura de tarot?",
+    answer: "Durante la sesión, utilizo el tarot como herramienta para conectar con tu energía y guiarte en temas específicos de tu vida, como el amor, trabajo, finanzas o crecimiento personal. A través de las cartas, obtendrás claridad, orientación y posibles caminos a seguir."
   },
   {
-    question: "¿Qué necesito para mi carta astral?",
+    question: "¿Qué necesito para una lectura de carta astral?",
     answer: "Necesitaremos tu fecha, hora y lugar exacto de nacimiento para crear tu carta astral personalizada."
   },
   {
-    question: "¿Cuánto dura una sesión?",
-    answer: "Las lecturas de tarot duran 30 minutos, mientras que las sesiones de carta astral se extienden a 45 minutos."
+    question: "¿Puedo hacer preguntas específicas durante la lectura de tarot?",
+    answer: "¡Claro que sí! La sesión está diseñada para resolver tus dudas o preocupaciones puntuales. Puedes traer preguntas sobre situaciones actuales o áreas específicas de tu vida."
   },
   {
-    question: "¿Cómo me preparo para una lectura?",
-    answer: "Recomendamos estar en un lugar tranquilo, tener tus preguntas preparadas y mantener una mente abierta."
+    question: "¿Las sesiones son presenciales o virtuales?",
+    answer: "Ofrezco ambas modalidades: Virtual, a través de videollamada (Zoom, Google Meet, WhatsApp), y Presencial en Cali, barrio El Ingenio."
+  },
+  {
+    question: "¿Es necesario tener conocimientos previos sobre tarot o astrología?",
+    answer: "No, no necesitas ningún conocimiento previo. Yo te guiaré durante toda la sesión, explicando cada paso y cada mensaje que surja."
   }
 ];
 

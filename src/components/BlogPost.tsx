@@ -25,7 +25,7 @@ export default function BlogPost() {
               <div className="flex items-center space-x-6 text-purple-300">
                 <div className="flex items-center">
                   <User className="w-4 h-4 mr-2" />
-                  <span>Por Mystic Insights</span>
+                  <span>Por Samuel</span>
                 </div>
                 <div className="flex items-center">
                   <Clock className="w-4 h-4 mr-2" />
@@ -46,33 +46,52 @@ export default function BlogPost() {
 
             <div className="prose prose-invert prose-purple max-w-none">
               <p className="text-lg text-purple-200 mb-6">
-                Los Arcanos Mayores son las 22 cartas más significativas del Tarot, cada una representando 
-                poderosos arquetipos y momentos cruciales en nuestro viaje espiritual. Estas cartas son 
-                consideradas el corazón del Tarot, conteniendo las lecciones más profundas y transformadoras.
+              Los Arcanos Mayores son las cartas más importantes del Tarot. Representan lecciones universales, caminos de vida y energías arquetípicas que nos guían en nuestro viaje espiritual y personal. Si estás comenzando tu camino en el tarot o quieres profundizar más, esta guía te ayudará a comprender cada carta y su significado.
               </p>
 
-              <h2 className="text-2xl font-bold text-purple-300 mb-4">El Significado de los Arcanos</h2>
+              <h2 className="text-2xl font-bold text-purple-300 mb-4">¿Qué son los Arcanos Mayores?
+</h2>
               <p className="text-purple-200 mb-6">
-                Cada Arcano Mayor representa una etapa específica en nuestro viaje espiritual, desde 
-                El Loco (0) hasta El Mundo (XXI). Estas cartas nos guían a través de las lecciones 
-                fundamentales de la vida, reflejando los arquetipos universales que todos encontramos 
-                en nuestro camino de desarrollo personal.
+              El Tarot está compuesto por 78 cartas, divididas en dos grupos:
+              <ul className="list-disc list-inside text-purple-200 mb-6">
+                <li>Arcanos Mayores (22 cartas): Representan eventos significativos y arquetipos universales.</li>
+                <li>Arcanos Menores (56 cartas): Detallan situaciones cotidianas y aspectos específicos de la vida.</li>
+              </ul>
+              Los Arcanos Mayores son el corazón del Tarot. Cada carta simboliza una etapa de nuestro viaje espiritual, también llamado el Viaje del Loco, donde el protagonista (el Loco, carta 0) atraviesa experiencias y desafíos que lo transforman.
               </p>
 
-              <h3 className="text-xl font-bold text-purple-300 mb-4">Los Primeros Arcanos</h3>
+              <h3 className="text-xl font-bold text-purple-300 mb-4">Lista de los 22 Arcanos Mayores y sus Significados</h3>
               <ul className="list-disc list-inside text-purple-200 mb-6">
-                <li>El Loco (0): El inicio del viaje, la inocencia y la espontaneidad</li>
-                <li>El Mago (I): El poder de la manifestación y la acción consciente</li>
-                <li>La Sacerdotisa (II): La sabiduría intuitiva y los misterios ocultos</li>
-                <li>La Emperatriz (III): La abundancia y la creatividad natural</li>
+                <li>0 - El Loco: Representa el inicio de un viaje lleno de aventuras, inocencia y posibilidades.</li>
+                <li>1 - El Mago: Simboliza el poder de manifestar tus deseos usando tus talentos y recursos.</li>
+                <li>2 - La Sacerdotisa: Conecta con la intuición, el misterio y la sabiduría interior oculta.</li>
+                <li>3 - La Emperatriz: Expresa abundancia, fertilidad y el amor maternal que nutre.</li>
+                <li>4 - El Emperador: Representa la estructura, el control y la autoridad en tu vida.5 - El Hierofante: Señala el aprendizaje espiritual, las tradiciones y el conocimiento sagrado.</li>        
+                <li>6 - Los Enamorados: Refleja decisiones importantes, el amor y la armonía en las relaciones.</li>
+                <li>7 - El Carro: Simboliza la determinación, la victoria y el avance hacia tus metas.</li>
+                <li>8 - La Fuerza: Habla de coraje, autocontrol y dominio de las emociones internas.</li>
+                <li>9 - El Ermitaño: Invita a la introspección, la soledad y la búsqueda de la verdad interior.</li>
+                <li>10 - La Rueda de la Fortuna: Representa los cambios, ciclos y las oportunidades que trae la vida.</li>
+                <li>11 - La Justicia: Simboliza el equilibrio, la verdad y la toma de decisiones justas.</li>
+                <li>12 - El Colgado: Indica pausa, sacrificio y la necesidad de ver las cosas desde otra perspectiva.</li>
+                <li>13 - La Muerte: Representa el fin de un ciclo, la transformación y el renacimiento personal.</li>
+                <li>14 - La Templanza: Sugiere armonía, moderación y la búsqueda del equilibrio en tu vida.</li>
+                <li>15 - El Diablo: Habla de ataduras, tentaciones y la necesidad de enfrentar tus sombras.</li>
+                <li>16 - La Torre: Señala cambios abruptos, crisis necesarias y revelaciones que transforman.</li>
+                <li>17 - La Estrella: Representa la esperanza, la inspiración y la conexión con tu propósito.</li>
+                <li>18 - La Luna: Refleja ilusiones, emociones ocultas y la necesidad de escuchar tu intuición.</li>
+                <li>19 - El Sol: Simboliza éxito, alegría, claridad y el brillo que compartes con el mundo.</li>
+                <li>20 - El Juicio: Indica renovación, un despertar espiritual y el llamado a renacer.</li>
+                <li>21 - El Mundo: Representa la culminación de un ciclo, la realización y la plenitud.</li>
               </ul>
 
-              <h2 className="text-2xl font-bold text-purple-300 mb-4">Interpretación en Lecturas</h2>
+              <h2 className="text-2xl font-bold text-purple-300 mb-4">Cómo Interpretar los Arcanos Mayores</h2>
               <p className="text-purple-200 mb-6">
-                Cuando un Arcano Mayor aparece en una lectura, su mensaje tiene un peso especial. 
-                Estas cartas suelen indicar momentos significativos, lecciones importantes o 
-                cambios transformadores en nuestras vidas. Su presencia nos invita a prestar 
-                especial atención a los temas arquetípicos que representan.
+              <ul className="list-disc list-inside text-purple-200 mb-6">
+              <li>Conéctate con la carta: Observa las imágenes, colores y símbolos.</li>
+              <li>Escucha tu intuición: ¿Qué sientes cuando ves la carta?</li>
+              <li>Considera el contexto: La posición en la lectura y las preguntas del consultante son claves.</li>
+              <li>Relaciónalas entre sí: Los Arcanos Mayores cuentan una historia; busca conexiones.</li></ul>
               </p>
 
               <blockquote className="border-l-4 border-purple-500 pl-4 my-8">
@@ -84,14 +103,14 @@ export default function BlogPost() {
 
               <h2 className="text-2xl font-bold text-purple-300 mb-4">Trabajando con los Arcanos</h2>
               <p className="text-purple-200 mb-6">
-                Para profundizar en el estudio de los Arcanos Mayores, se recomienda:
+              Los Arcanos Mayores son un espejo de nuestra vida y nuestra alma. Estudiarlos te ayudará no solo a leer el Tarot con mayor profundidad, sino también a conocerte mejor y encontrar respuestas a tus preguntas más importantes. Si quieres experimentar una lectura personalizada que te guíe en tu camino, no dudes en agendar una sesión conmigo.
               </p>
-              <ul className="list-disc list-inside text-purple-200 mb-6">
-                <li>Meditar con una carta diferente cada día</li>
-                <li>Llevar un diario de las intuiciones y mensajes recibidos</li>
-                <li>Estudiar los símbolos y colores de cada carta</li>
-                <li>Relacionar las cartas con experiencias personales</li>
-              </ul>
+              <a 
+          href="#reservar"
+          className="inline-block px-8 py-3 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-full hover:from-purple-600 hover:to-pink-600 transition-all duration-300 shadow-lg shadow-purple-500/50"
+        >
+          Reserva Tu Consulta
+        </a>
             </div>
           </article>
         </div>
