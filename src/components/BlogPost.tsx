@@ -66,7 +66,8 @@ export default function BlogPost() {
                 <li>1 - El Mago: Simboliza el poder de manifestar tus deseos usando tus talentos y recursos.</li>
                 <li>2 - La Sacerdotisa: Conecta con la intuición, el misterio y la sabiduría interior oculta.</li>
                 <li>3 - La Emperatriz: Expresa abundancia, fertilidad y el amor maternal que nutre.</li>
-                <li>4 - El Emperador: Representa la estructura, el control y la autoridad en tu vida.5 - El Hierofante: Señala el aprendizaje espiritual, las tradiciones y el conocimiento sagrado.</li>        
+                <li>4 - El Emperador: Representa la estructura, el control y la autoridad en tu vida.</li>
+                <li>5 - El Hierofante: Señala el aprendizaje espiritual, las tradiciones y el conocimiento sagrado.</li>        
                 <li>6 - Los Enamorados: Refleja decisiones importantes, el amor y la armonía en las relaciones.</li>
                 <li>7 - El Carro: Simboliza la determinación, la victoria y el avance hacia tus metas.</li>
                 <li>8 - La Fuerza: Habla de coraje, autocontrol y dominio de las emociones internas.</li>
