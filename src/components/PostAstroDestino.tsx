@@ -3,7 +3,7 @@ import { ArrowLeft, Clock, User, Tag } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import Footer from './Footer';
 
-export default function BlogPost() {
+export default function PostAstroDestino() {
   return (
     <div className="min-h-screen bg-black text-white">
       <div className="py-24 bg-gradient-to-b from-black to-purple-900/20">
