@@ -15,7 +15,7 @@ export default function ContactForm() {
         </p>
 
         <div className="max-w-3xl mx-auto bg-purple-900/20 p-4 rounded-xl border border-purple-500/30">
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfJq3HiqCiJGfZJwv2ooofSOFZhaIVF-K47AsvuWPiIh81tFg/viewform?embedded=true" width="640" height="1475" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfJq3HiqCiJGfZJwv2ooofSOFZhaIVF-K47AsvuWPiIh81tFg/viewform?embedded=true" className="w-full h-[600px] rounded-lg" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
         </div>
       </div>
     </div>
