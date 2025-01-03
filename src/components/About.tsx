@@ -29,7 +29,7 @@ export default function About() {
             </div>
             
             <h3 className="text-4xl font-bold text-purple-300 mb-6 font-cinzel">
-              Samuel González
+              Samael G.
             </h3>
             
             <p className="text-purple-200 mb-6">
