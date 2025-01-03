@@ -9,7 +9,7 @@ export default function Footer() {
           <div className="flex items-center mb-8 md:mb-0">
             <Moon className="w-8 h-8 text-purple-400 mr-2" />
             <span className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
-              Samuel González - Tarot y Carta Astral
+              Samael G. - Tarot y Carta Astral
             </span>
           </div>
           
@@ -27,7 +27,7 @@ export default function Footer() {
         </div>
         
         <div className="mt-8 text-center text-purple-300 text-sm">
-          © 2024 Samuel González. Lectura de Tarot y Carta Astral en Cali. Todos los derechos reservados.
+          © 2025 Samael. Lectura de Tarot y Carta Astral en Cali. Todos los derechos reservados.
         </div>
       </div>
     </footer>
