@@ -10,8 +10,8 @@ export default function About() {
             <div className="absolute -top-4 -left-4 w-72 h-72 bg-gradient-to-br from-purple-500 to-pink-500 rounded-full opacity-20 blur-3xl"></div>
             <div className="relative aspect-square w-72 mx-auto overflow-hidden rounded-2xl border-2 border-purple-500/30">
               <img 
-                src="https://portafolio-livid-xi.vercel.app/static/media/samuel-perfil.6836711e.jpg" 
-                alt="Mystic Guide Portrait" 
+                src="/samuel-perfil.6836711e.jpg" 
+                alt="Samuel G. Tarotista Astrologo" 
                 className="w-full h-full object-cover"
               />
             </div>

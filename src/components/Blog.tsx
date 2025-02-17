@@ -27,7 +27,7 @@ export default function Blog() {
     <div className="py-24 bg-gradient-to-b from-black to-purple-900/20">
       <div className="container mx-auto px-6">
         <h2 className="text-4xl font-bold text-center text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600 mb-16">
-          Blog Místico
+          Blog
         </h2>
         
         <div className="grid md:grid-cols-3 gap-8">

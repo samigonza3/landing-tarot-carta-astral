@@ -1,5 +1,5 @@
 import React from 'react';
-import { Moon, Stars, Sparkles } from 'lucide-react';
+import { Stars } from 'lucide-react';
 
 export default function Hero() {
   return (
@@ -10,16 +10,14 @@ export default function Hero() {
       <div className="relative container mx-auto px-6 py-32 text-center">
         <Stars className="inline-block w-12 h-12 text-purple-400 animate-pulse mb-4" />
         <h1 className="text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600 mb-6 font-[Cinzel]">
-        Conecta con tu destino. Descubre las respuestas que buscas.
-        </h1>
+        Tarot y Carta Natal con enfoque terapéutico.</h1>
         <p className="text-xl text-purple-200 mb-8 max-w-2xl mx-auto">
-        A través del tarot y la astrología, ilumina tu camino, comprende tu presente y prepárate para un futuro lleno de propósito y claridad.
-        </p>
+        Obtén claridad, alineación y guía para tomar decisiones con propósito. ✨        </p>
         <a 
           href="#reservar"
           className="inline-block px-8 py-3 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-full hover:from-purple-600 hover:to-pink-600 transition-all duration-300 shadow-lg shadow-purple-500/50"
         >
-          Reserva Tu Consulta
+          Agenda Tu Consulta
         </a>
       </div>
     </div>

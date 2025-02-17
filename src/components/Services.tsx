@@ -4,16 +4,16 @@ import { Sparkles, Moon, Sun } from 'lucide-react';
 const services = [
   {
     title: "Lectura de Tarot",
-    price: "$180.000 COP",
+    price: "$30.000 COP x 2 Preguntas",
     description: "Descubre las respuestas que buscas a través de las cartas del tarot",
-    features: ["Sesión de 30 minutos", "Respuesta a preguntas específicas sobre amor, trabajo, finanzas, etc.", "Exploración de las energías presentes en tu vida"],
+    features: ["Sesión de 30 minutos", "Respuesta a 2 preguntas específicas sobre amor, trabajo, finanzas, etc.", "Exploración de las energías presentes en tu vida", "Pregunta adicional: $10.000 COP"],
     icon: <Sparkles className="w-8 h-8 text-purple-400" />
   },
   {
-    title: "Interpretación de Carta Astral",
-    price: "$150.000 COP",
+    title: "Interpretación de Carta Astral Completa",
+    price: "$50.000 COP",
     description: "Conoce tu esencia y desbloquea tu potencial con la Astrología.",
-    features: ["Sesión de 45 minutos", "Carta astral impresa", "Exploración de tu sol, luna, ascendente y casas astrológicas", "Respuesta a preguntas"],
+    features: ["Exploración de tu Sol, Luna, Ascendente, Casas astrológicas activas, Karmas y Propósitos.", "Respuesta a preguntas"],
     icon: <Moon className="w-8 h-8 text-purple-400" />
   }
 ];
