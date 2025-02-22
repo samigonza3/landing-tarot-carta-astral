@@ -27,7 +27,7 @@ export default function Footer() {
         </div>
         
         <div className="mt-8 text-center text-purple-300 text-sm">
-          © 2025 Samuel G. Lectura de Tarot y Carta Astral Natal en Cali. Todos los derechos reservados.
+          © 2025 Samuel G. Lectura de Tarot y Carta Astral Natal en Cali. Tel.: +57 315 201 76 05. Todos los derechos reservados.
         </div>
       </div>
     </footer>
